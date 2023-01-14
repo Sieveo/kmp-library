@@ -1,0 +1,9 @@
+/.fleet/
+/.gradle/
+/.idea/
+/shared/kotlin-js-store/
+/cpp_app/.idea/
+/cpp_app/cmake-build-debug/
+/cpp_app/libs/libpopcorn.dylib
+/cpp_app/headers/libpopcorn_api.h
+/shared/build/
